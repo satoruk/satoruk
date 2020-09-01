@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Satoruk's github stats](https://github-readme-stats.vercel.app/api?username=satoruk&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoruk&layout=compact&count_private=true&show_icons=true&theme=dark)
+
+
 <!--
 **satoruk/satoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
