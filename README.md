@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Satoruk's github stats](https://github-readme-stats.vercel.app/api?username=satoruk&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoruk&layout=compact&count_private=true&show_icons=true&theme=dark)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=satoruk&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoruk&layout=compact&count_private=true&show_icons=true&theme=dark" />
+</a>
 
 <!--
 **satoruk/satoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
